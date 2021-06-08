@@ -1,0 +1,10 @@
+[
+  {
+    "comando": "!twitter",
+    "descricao": "Para encontrar o link do meu twitter"
+  },
+  {
+    "comando": "!discord",
+    "descricao": "Para receber o link do discord do canal"
+  }
+]
